@@ -10,7 +10,9 @@ The aim of the project is to predict the tags (a.k.a. keywords, topics, summarie
 | Sagar Raval     | sagarbharatkumar.raval@sjsu.edu |
 | Jay Patel       | jay.j.patel@sjsu.edu            |
 | Rutvik Patel    | rutvik.g.patel@sjsu.edu         |
+
 * Objectives
+
 - We want to improve experience for users when they ask questioin in Q&A platform, such as Stack Overflow, Quora, etc., by automatically suggesting tags based on the question they are asking.
 - In essence, we would like to develop a Machine Learning model that can predict related tags, given questions title and text
 * Dataset
